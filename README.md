@@ -30,4 +30,4 @@ okay! As Jedi Master Obi-Wan Kenobi would say, "Use the Gemfile, Luke!")
 
 
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/dynamic-orm-lab' title='Dynamic ORM Lab'>Dynamic ORM Lab</a> on Learn.co and start learning to code for free.</p>
+
